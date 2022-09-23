@@ -1,0 +1,80 @@
+.logo {
+  background-color: black;
+  height: 92px;
+  width: 272px;
+  margin-left: 515px;
+}
+
+.logobox {
+  margin-top: 90px;
+  width: 950px;
+  
+
+
+
+}
+
+.navbar {
+  height: 60px;
+  width: 950px;
+  text-align: right;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+
+}
+
+.navbar1 {
+  height: 58px;
+  width: 950px;
+
+  text-decoration-line: inherit;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  padding-left: 350px;
+  color: white
+}
+
+
+.anaekranboyut{
+  background-color: black;
+  
+}
+
+a {
+  color: #bdc1c6;
+  text-decoration-line: none;
+
+
+}
+
+#box {
+  position: relative;
+  margin-left: 380px;
+  margin-top: 20px;
+ 
+
+}
+
+#box .fa-search {
+  position: absolute;
+  top: 14px;
+  left: 12px;
+  font-size: 20px;
+  color: cornflowerblue;
+
+}
+
+#search {
+  width: 550px;
+  box-sizing: border-box;
+  border: 2px solid cornflowerblue;
+  border-radius: 50px;
+  font-size: 18px;
+  padding: 12px 20px 12px 40px;
+  -moz-transition: width 0.4s ease-in-out;
+  -o-transition: width 0.4s ease-in-out;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  
+  
+}
